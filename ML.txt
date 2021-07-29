@@ -1,0 +1,58 @@
+machine learning
+
+Ed Burns
+By
+Ed Burns, Executive Editor
+What is machine learning?
+Machine learning (ML) is a type of artificial intelligence (AI) that allows software applications to become more accurate at predicting outcomes without being explicitly programmed to do so. Machine learning algorithms use historical data as input to predict new output values.
+
+Recommendation engines are a common use case for machine learning. Other popular uses include fraud detection, spam filtering, malware threat detection, business process automation (BPA) and predictive maintenance.
+
+Why is machine learning important?
+Machine learning is important because it gives enterprises a view of trends in customer behavior and business operational patterns, as well as supports the development of new products. Many of today's leading companies, such as Facebook, Google and Uber, make machine learning a central part of their operations. Machine learning has become a significant competitive differentiator for many companies.
+
+What are the different types of machine learning?
+Classical machine learning is often categorized by how an algorithm learns to become more accurate in its predictions. There are four basic approaches: supervised learning, unsupervised learning, semi-supervised learning and reinforcement learning. The type of algorithm data scientists choose to use depends on what type of data they want to predict.
+
+THIS ARTICLE IS PART OF
+
+In-depth guide to machine learning in the enterprise
+Which also includes:
+Learn the business value of AI's various techniques
+10 common uses for machine learning applications in business
+6 ways to reduce different types of bias in machine learning
+DOWNLOAD
+1
+Download this entire guide for FREE now!
+
+Supervised learning: In this type of machine learning, data scientists supply algorithms with labeled training data and define the variables they want the algorithm to assess for correlations. Both the input and the output of the algorithm is specified.
+Unsupervised learning: This type of machine learning involves algorithms that train on unlabeled data. The algorithm scans through data sets looking for any meaningful connection. The data that algorithms train on as well as the predictions or recommendations they output are predetermined.
+Semi-supervised learning: This approach to machine learning involves a mix of the two preceding types. Data scientists may feed an algorithm mostly labeled training data, but the model is free to explore the data on its own and develop its own understanding of the data set.
+Reinforcement learning: Data scientists typically use reinforcement learning to teach a machine to complete a multi-step process for which there are clearly defined rules. Data scientists program an algorithm to complete a task and give it positive or negative cues as it works out how to complete a task. But for the most part, the algorithm decides on its own what steps to take along the way.
+How does supervised machine learning work?
+Supervised machine learning requires the data scientist to train the algorithm with both labeled inputs and desired outputs. Supervised learning algorithms are good for the following tasks:
+
+Binary classification: Dividing data into two categories.
+Multi-class classification: Choosing between more than two types of answers.
+Regression modeling: Predicting continuous values.
+Ensembling: Combining the predictions of multiple machine learning models to produce an accurate prediction.
+How does unsupervised machine learning work?
+Unsupervised machine learning algorithms do not require data to be labeled. They sift through unlabeled data to look for patterns that can be used to group data points into subsets. Most types of deep learning, including neural networks, are unsupervised algorithms. Unsupervised learning algorithms are good for the following tasks:
+
+Clustering: Splitting the dataset into groups based on similarity.
+Anomaly detection: Identifying unusual data points in a data set.
+Association mining: Identifying sets of items in a data set that frequently occur together.
+Dimensionality reduction: Reducing the number of variables in a data set.
+
+How does semi-supervised learning work?
+Semi-supervised learning works by data scientists feeding a small amount of labeled training data to an algorithm. From this, the algorithm learns the dimensions of the data set, which it can then apply to new, unlabeled data. The performance of algorithms typically improves when they train on labeled data sets. But labeling data can be time consuming and expensive. Semi-supervised learning strikes a middle ground between the performance of supervised learning and the efficiency of unsupervised learning. Some areas where semi-supervised learning is used include:
+
+Machine translation: Teaching algorithms to translate language based on less than a full dictionary of words.
+Fraud detection: Identifying cases of fraud when you only have a few positive examples.
+Labelling data: Algorithms trained on small data sets can learn to apply data labels to larger sets automatically.
+How does reinforcement learning work?
+Reinforcement learning works by programming an algorithm with a distinct goal and a prescribed set of rules for accomplishing that goal. Data scientists also program the algorithm to seek positive rewards -- which it receives when it performs an action that is beneficial toward the ultimate goal -- and avoid punishments -- which it receives when it performs an action that gets it farther away from its ultimate goal. Reinforcement learning is often used in areas such as:
+
+Robotics: Robots can learn to perform tasks the physical world using this technique.
+Video gameplay: Reinforcement learning has been used to teach bots to play a number of video games.
+Resource management: Given finite resources and a defined goal, reinforcement learning can help enterprises plan out how to allocate resources.
