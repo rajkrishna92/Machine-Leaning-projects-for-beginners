@@ -4,3 +4,4 @@
 3. WhatsApp Chat Sentiment Analysis (https://www.youtube.com/watch?v=avJp4f1uzuY)
 4. Covid-19 Vaccines Analysis (https://youtu.be/tOC89Hefk18)
 5. Text Summarization (https://youtu.be/6CX-herBRdY)
+6. Make a Simple Chatbot (https://youtu.be/SP5wKxW2ibc)
