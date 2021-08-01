@@ -6,3 +6,4 @@
 5. Text Summarization (https://youtu.be/6CX-herBRdY)
 6. Make a Simple Chatbot (https://youtu.be/SP5wKxW2ibc)
 7. Predict Diabetes (https://youtu.be/xwnpOwaUMHE)
+8. Web Scraping (https://youtu.be/-c-V98ZUNhk)
