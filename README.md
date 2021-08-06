@@ -10,3 +10,4 @@
 9. US Election Sentiment Analysis using tweet (https://youtu.be/6oQsCFg1Wl8)
 10. Resume Screening (https://youtu.be/Hxad1K6hYGU)
 11. SMS Spam Detection (https://youtu.be/mPW9bjVXbPU)
+12. Book Recommendation System (https://youtu.be/iynmxMqxkZk)
