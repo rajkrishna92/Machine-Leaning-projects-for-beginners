@@ -11,3 +11,4 @@
 10. Resume Screening (https://youtu.be/Hxad1K6hYGU)
 11. SMS Spam Detection (https://youtu.be/mPW9bjVXbPU)
 12. Book Recommendation System (https://youtu.be/iynmxMqxkZk)
+13. Titanic Survival Prediction (https://youtu.be/OOeN7KjfOfA)
