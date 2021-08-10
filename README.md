@@ -12,3 +12,4 @@
 11. SMS Spam Detection (https://youtu.be/mPW9bjVXbPU)
 12. Book Recommendation System (https://youtu.be/iynmxMqxkZk)
 13. Titanic Survival Prediction (https://youtu.be/OOeN7KjfOfA)
+14. Language Classification (https://youtu.be/SUEAL1QBilw)
