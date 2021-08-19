@@ -13,3 +13,4 @@
 12. Book Recommendation System (https://youtu.be/iynmxMqxkZk)
 13. Titanic Survival Prediction (https://youtu.be/OOeN7KjfOfA)
 14. Language Classification (https://youtu.be/SUEAL1QBilw)
+15. Uber Trips Analysis (https://youtu.be/tdhGqnBD2PU)
